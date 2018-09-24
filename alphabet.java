@@ -9,7 +9,7 @@ public class Main
     a=s.next().charAt(0);
      if((a>='a'&&a<='z')||(a>='A'&&a<='Z'))
      {
-      System.out.println("alphabet");
+      System.out.println("Alphabet");
      }
      else 
      {
