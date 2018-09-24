@@ -3,7 +3,7 @@ class vowelssid
  {
   public static void main(String[] args)
    {
-     int s=0;
+     int i=0;
     char a;
     Scanner s=new Scanner(System.in);
     System.out.println("enter the alphabit");
@@ -20,9 +20,9 @@ class vowelssid
       case 'I':
       case 'O':
       case 'U':
-      s++;
+      i++;
     }
-     if(s==1)
+     if(i==1)
      {
        System.out.println("alphabit  is vowle");
      }
